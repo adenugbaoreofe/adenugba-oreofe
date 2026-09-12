@@ -1,0 +1,6 @@
+{
+  "name": "Arc Staking Ledger",
+  "description": "Cryptographic staking platform and ledger interface for Arc Network with real-time position certificates and pool administration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
